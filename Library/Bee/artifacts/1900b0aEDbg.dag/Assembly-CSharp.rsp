@@ -361,6 +361,7 @@
 -analyzer:"C:/Program Files/Unity 2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/PlayerControl.cs"
 "Assets/Scripts/Bound.cs"
+"Assets/Scripts/Cross Scene Zombie.cs"
 "Assets/Scripts/Model/Skill/Interfaces/ICircle.cs"
 "Assets/Scripts/Model/Skill/Interfaces/IEllipse.cs"
 "Assets/Scripts/Model/Skill/Interfaces/IGeometry.cs"
@@ -368,7 +369,9 @@
 "Assets/Scripts/Model/Skill/Interfaces/SkillInterface.cs"
 "Assets/Scripts/Model/Skill/Skill.cs"
 "Assets/Scripts/MoveTo.cs"
+"Assets/Scripts/Obstacle Ball.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/Triangle Move Zombie.cs"
 -langversion:9.0
 
 /deterministic

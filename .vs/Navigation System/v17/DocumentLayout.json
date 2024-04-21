@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Selfmade\\Navigation System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|d:\\selfmade\\navigation system\\assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|d:\\selfmade\\navigation system\\assets\\scripts\\triangle move zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triangle move zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|D:\\Selfmade\\Navigation System\\assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|D:\\Selfmade\\Navigation System\\assets\\scripts\\cross scene zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cross scene zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|d:\\selfmade\\navigation system\\assets\\scripts\\obstacle ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|D:\\Selfmade\\Navigation System\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Obstacle Ball.cs",
+              "DocumentMoniker": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Obstacle Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle Ball.cs",
+              "ToolTip": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Obstacle Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle Ball.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:22:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Triangle Move Zombie.cs",
+              "DocumentMoniker": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Triangle Move Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Triangle Move Zombie.cs",
+              "ToolTip": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Triangle Move Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Triangle Move Zombie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:21:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cross Scene Zombie.cs",
+              "DocumentMoniker": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Cross Scene Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cross Scene Zombie.cs",
+              "ToolTip": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Cross Scene Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cross Scene Zombie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:04:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:51:32.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MoveTo.cs",
               "DocumentMoniker": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\MoveTo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveTo.cs",
               "ToolTip": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\MoveTo.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveTo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T06:06:05.016Z",
               "EditorCaption": ""

@@ -4,7 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Point
+  - Cross Scene Point
+  - Cross Scene Land Point
   layers:
   - Default
   - TransparentFX
