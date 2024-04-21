@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Selfmade\\Navigation System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|d:\\selfmade\\navigation system\\assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA04EC-F6AA-8424-C475-5B94A37FEF70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveTo.cs",
+              "DocumentMoniker": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\MoveTo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveTo.cs",
+              "ToolTip": "D:\\Selfmade\\Navigation System\\Assets\\Scripts\\MoveTo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:06:05.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
